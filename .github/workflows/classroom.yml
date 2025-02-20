@@ -48,4 +48,3 @@ jobs:
         YOUR-TESTS_RESULTS: "${{steps.your-tests.outputs.result}}"
       with:
         runners: dynamic-array-tests,caesar-cipher-tests,your-tests
-
