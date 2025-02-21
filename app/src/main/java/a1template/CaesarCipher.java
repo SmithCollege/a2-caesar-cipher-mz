@@ -76,10 +76,9 @@ public class CaesarCipher {
     }
     return encodedMessage;
   }
-//CONFUSED ON WHY I NEED THE KEY IS THE CAESAR CIPHER OBJECT ALREADY HAS AN OFFSET
+
   /** Decode a message using the cipher 
    * @param String message to decode
-   * @param int key to use in decoding
    * @return decoded message
    */
   public String decode(String message) {
