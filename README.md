@@ -4,17 +4,20 @@
 
 Your readme should include the following information. Each student needs to submit all of this information independently, even when pair programming. 
 
-Programming Partner Name:
+Programming Partner Name: N/A
 
-Other Collaborators (and kudos to people who were especially helpful):
+Other Collaborators (and kudos to people who were especially helpful): Swikriti, Alyssa, Vivian, TAs
 
-References Used:
+References Used: Stack Overflow, Google
 
 
 ## Reflection Questions
 
 What was your favorite part of this assignment?
+My favorite part was running all my tests and having them pass finally.
 
 What was most challenging about this assignment?
+I did not understand the assignment at first which obviously made working on it difficult. However, after figuring out how DynamicArray was supposed to be used in the CaesarCipher class, the rest of the assignment made much more sense.
 
 General comments on your experience with this assignment:
+The first week working on this asssignment was an absolute nightmare but it has just taught me to go to office hours and seek help from the professor much earlier in the process to avoid wasting time working on the assignment incorrectly.
